@@ -1,0 +1,6 @@
+name = "w-email"
+main = "src/main.ts"
+compatibility_date = "2023-05-18"
+
+[env.production]
+
